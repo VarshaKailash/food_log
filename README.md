@@ -1,6 +1,6 @@
 # Prototype React Native App for Food Analysis: 
 
-This App leverages the Clarifai ML API for predicting food item caputerd by camera.
+This App leverages the Clarifai ML API for predicting food item captured by camera.
 ---
 ## To Access the CLARIFAI API
 1. `Get API key from CLARIFAI: https://www.clarifai.com/`
